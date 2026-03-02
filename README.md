@@ -40,4 +40,7 @@ uv sync
 
 ```bash
 jupyter notebook anomaly_detection.ipynb
+
+# Если установили через uv
+# uv run jupyter notebook anomaly_detection.ipynb
 ```
